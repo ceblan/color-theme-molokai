@@ -72,7 +72,7 @@
  ;;'(font-lock-comment-delimiter-face ((t (:foreground "#465457" :slant italic))))
  '(font-lock-comment-delimiter-face ((t (:foreground "#667b7f" :slant italic))))
  '(font-lock-constant-face ((t (:foreground "#AE81FF"))))
- '(font-lock-doc-face ((t (:foreground "#00ffc0" :slant italic))))
+ '(font-lock-doc-face ((t (:foreground "#E6DB74" :slant italic))))
  '(font-lock-function-name-face ((t (:foreground "#F92672" :slant italic))))
  '(font-lock-keyword-face ((t (:foreground "#66D9EF"))))
  '(font-lock-negation-char-face ((t (:weight bold))))
